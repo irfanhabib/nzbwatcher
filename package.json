@@ -1,0 +1,17 @@
+{
+  "name": "nzbwatcher",
+  "description": "nzbwatcher",
+  "author": "Irfan <irfan@irfanhabib.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "applescript": "*",
+     "nconf":"x",
+     "underscore":"x"
+  },
+  "devDependencies": {
+    "vows": "0.5.x",
+	"mocha": "*",
+	"should": "*"
+  },
+  "engine": "node >= 0.6.6"
+}
